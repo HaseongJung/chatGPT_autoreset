@@ -6,7 +6,7 @@ from seleniumbase import SB
 import pyautogui as pg
 
 from utils.pyautoGUI_helper import wait_and_find_element, find_and_click
-from whois import get_authentication_code
+from src.whois import get_authentication_code
 
 
 
