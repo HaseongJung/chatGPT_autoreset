@@ -1,2 +1,4 @@
-cookies/
+research/cookies/
 .env
+__pycache__
+.venv
